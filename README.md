@@ -50,7 +50,7 @@ minimalistic-todo/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/minimalistic-todo.git
+git clone https://github.com/CodeWithPurnendra/Minimalist-To-Do.git
 ```
 
 ### 2. Navigate to the Project
